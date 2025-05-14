@@ -1,0 +1,16 @@
+Copyright © Tyson Williams, 2025
+
+All rights reserved.
+
+This software and associated documentation files (the “Software”) are the confidential and proprietary property of Tyson Williams.
+
+Permission is NOT granted to any person obtaining a copy of this Software to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software, in whole or in part.
+
+The Software may not be used or accessed for any commercial or non-commercial purpose without the express prior written permission of the copyright holder.
+
+Any unauthorized reproduction or distribution of this Software or any portion of it may result in severe civil and criminal penalties and will be prosecuted to the maximum extent possible under the law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+For inquiries, licensing, or commercial use, please contact:
+Tyson Williams
